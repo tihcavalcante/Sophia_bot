@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="C:\Users\DELL\OneDrive\Área de Trabalho\Sophia_bot-1.0\images\sophia.png">
-      <img src="C:\Users\DELL\OneDrive\Área de Trabalho\Sophia_bot-1.0\images\sophia.png" width="70%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true">
+      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true" width="70%">
     </picture>
   </a>
 </p>
