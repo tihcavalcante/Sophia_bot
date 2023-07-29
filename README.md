@@ -8,7 +8,7 @@
 </p>
 
 ---
-[![language](https://img.shields.io/badge/python-black)].
+[![language](https://img.shields.io/badge/python-black)](#).
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![BOT](https://img.shields.io/badge/telegram-sophia_bot-blue)](#)
 [![Documentation](https://img.shields.io/badge/Documentation-blue)](https://)
