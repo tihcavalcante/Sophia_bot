@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/images/">
-      <img src="docs/assets/images/" width="70%">
+      <source media="(prefers-color-scheme: dark)" srcset="C:\Users\DELL\OneDrive\Área de Trabalho\Sophia_bot-1.0\images\sophia.png">
+      <img src="C:\Users\DELL\OneDrive\Área de Trabalho\Sophia_bot-1.0\images\sophia.png" width="70%">
     </picture>
   </a>
 </p>
 
 ---
+[![language](https://img.shields.io/badge/python-black)].
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![BOT](https://img.shields.io/badge/telegram-sophia_bot-blue)](#)
-[![MessageQueue](https://img.shields.io/badge/MessageQueue-blue)](#)
 [![Documentation](https://img.shields.io/badge/Documentation-blue)](https://)
 
 # Sophia Bot 4 telegram
