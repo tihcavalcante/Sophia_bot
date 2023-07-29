@@ -15,11 +15,11 @@
 
 # Sophia Bot 4 telegram
 
-Sophia is a beginning bot project in python, for customer service on telegram, it is already functional, but still have space for refinements and other features. Its a  initial project.
+Sophia is a Python bot project designed for customer service on Telegram. It is already functional  and still has space for refinements and additional features. It is a project on constant updates.
 
-The purpose of this bot is to provide automated responses to common questions, perform moderation of inappropriate messages, and interact with users through messages in chats or groups. It uses a list of predefined answers to respond questions, offers moderation of improper words, and can interact in both private chats or groups.
+The purpose of this bot is to provide automated responses to common questions, moderate inappropriate messages, and interact with users through messages in chats or groups. It utilizes a list of predefined answers to respond to questions, offers moderation of improper words, and can interact in both private chats and groups.
 
-The bot use, could be applied for several kind of business for first attendances, decreasing response time and increasing clients satisfaction.
+The bot's application could be beneficial for various types of businesses, serving as initial assistance, reducing response time, and increasing client satisfaction.
 
 ---
 
