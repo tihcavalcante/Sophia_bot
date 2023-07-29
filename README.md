@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="sophia.png">
-      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true"">
+      <source media="(prefers-color-scheme: dark)" srcset=https://github.com/tihcavalcante/Sophia_bot/blob/ac28498e84585afc432f3ba73c2594a10293581e/sophia.png">
+      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/ac28498e84585afc432f3ba73c2594a10293581e/sophia.png">
     </picture>
   </a>
 </p>
 
 ---
-[![language](https://img.shields.io/badge/python-black)](#).
+[![language](https://img.shields.io/badge/python-black)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![BOT](https://img.shields.io/badge/telegram-sophia_bot-blue)](#)
 [![Documentation](https://img.shields.io/badge/Documentation-blue)](https://)
