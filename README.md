@@ -2,7 +2,7 @@
   <a href="https://">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true">
-      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true" width="70%">
+      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/main/sophia.png?raw=true" width="100%">
     </picture>
   </a>
 </p>
