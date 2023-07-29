@@ -1,0 +1,10 @@
+telebot
+logging
+time
+datetime
+colorama
+schedule
+unidecode
+string
+random
+schedule
