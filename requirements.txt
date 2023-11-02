@@ -1,0 +1,11 @@
+telebot~=0.0.5
+logging
+time
+datetime~=5.2
+colorama~=0.4.6
+schedule
+unidecode~=1.3.7
+string
+random
+schedule
+requests~=2.31.0

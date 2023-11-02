@@ -1,0 +1,2 @@
+# this log was designed to keep a register of interaction to improve answers
+# this way you should be able to improve your bot answers.
