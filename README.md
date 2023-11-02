@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=https://github.com/tihcavalcante/Sophia_bot/blob/ac28498e84585afc432f3ba73c2594a10293581e/sophia.png">
-      <img src="https://github.com/tihcavalcante/Sophia_bot/blob/ac28498e84585afc432f3ba73c2594a10293581e/sophia.png">
+      <source media="(prefers-color-scheme: dark)" srcset=https:">
+      <img src="https:">
     </picture>
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 # Sophia Bot 4 telegram
 
-Sophia is a Python bot project designed for customer service on Telegram. It is already functional  and still has space for refinements and additional features. It is a project on constant updates.
+Sophia is a Python bot project designed for customer service on Telegram. It is already functional and still has space for refinements and additional features. It is a project on constant updates.
 
 The purpose of this bot is to provide automated responses to common questions, moderate inappropriate messages, and interact with users through messages in chats or groups. It utilizes a list of predefined answers to respond to questions, offers moderation of improper words, and can interact in both private chats and groups.
 
@@ -25,7 +25,6 @@ The bot's application could be beneficial for various types of businesses, servi
 
 ## Menu
 
-- [Documentation](#documentation)
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Contributions](#contributions)
@@ -34,16 +33,12 @@ The bot's application could be beneficial for various types of businesses, servi
 - [Security Vulnerability Reporting](#security-vulnerability-reporting)
 
 ---
-
-## Documentation
-
-In progress, Comprehensive documentation about Sophia_bot can be found [here](https://).
-
----
-
 ## Quick Start
 
-In progress.
+Update the modules with your own information designed, provide your dictionary answers and API keys.
+
+IMPORTANT INFORMATION:
+the sequence of answer search must follow a default sequence of module, please check if your information required follows the sequence of search for correct annswer.
 ---
 
 ## Installation
@@ -55,7 +50,7 @@ pip install clone
 
 ## Contributions
 
-We welcome your contributions to help us improve and extend this project!
+You are welcome to contributions and help us improve and extend this project!
 
 ---
 
